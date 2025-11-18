@@ -1,3 +1,2 @@
-This ia an example file to check pollscm.
 
-SEcond line of code
+No content
